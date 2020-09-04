@@ -1,0 +1,18 @@
+body
+{
+   padding: 10px;
+   margin: 40px;
+   font-size: 24px;
+   font-family: helvetica;
+   background-image: url(https://images3.alphacoders.com/802/thumb-1920-80207.jpg);
+   background-repeat: no-repeat;
+   background-size: auto;
+   color: white;
+}
+
+nav
+{
+    background-color: transparent;
+    padding: 0px;
+    color: white;
+}
